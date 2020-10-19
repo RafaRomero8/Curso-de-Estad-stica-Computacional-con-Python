@@ -4,7 +4,7 @@ class Borracho:
 
     def __init__(self, nombre):#constructor
         self.nombre = nombre
-
+ñ
 
 class BorrachoTradicional(Borracho):#herenciaa
 
